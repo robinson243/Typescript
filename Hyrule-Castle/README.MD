@@ -54,7 +54,7 @@ Ce fichier README fournit des instructions étape par étape pour installer Node
 Placez vous dans un des répertoires et faites la commandes: 
 ```bash
 npm install readline-sync
-tsc hyrule-castle.ts
+tsc hyrule_castle.ts
 node hyrule_castle.js 
 ```
 Et amusez vous !
