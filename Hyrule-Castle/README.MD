@@ -52,7 +52,8 @@ Ce fichier README fournit des instructions étape par étape pour installer Node
 
 ## 3. Compilation du Projet TypeScript
 Placez vous dans un des répertoires et faites la commandes: 
-1. "npm install readline-sync"
-2. "tsc hyrule-castle.ts"
-3. "node hyrule_castle.js" 
+```npm install readline-sync
+tsc hyrule-castle.ts
+node hyrule_castle.js 
+```
 Et amusez vous !
